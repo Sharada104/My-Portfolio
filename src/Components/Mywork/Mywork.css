@@ -1,0 +1,47 @@
+.mywork-section {
+  padding: 60px 20px;
+  background-color: #161513;
+  text-align: center;
+}
+
+
+.mywork-section h2 {
+  font-size: 36px;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.mywork-project {
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+.mywork-project h3 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.mywork-project p {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.6;
+}
+
+.mywork-project ul {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  color: #444;
+}
+.mywork-project a {
+  color: #007bff;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
